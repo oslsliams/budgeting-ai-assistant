@@ -17,9 +17,9 @@ managing student loans and credit cards.
 ## Try it live
 👉 [Launch Budgeting AI Assistant](https://creator.voiceflow.com/share/69fa7ab29a1a2da1ef735383/environment/main/draft)
 
-## 🛠️ Built With
+## Built With
 - [Voiceflow](https://voiceflow.com) — conversational AI platform
 - Gemini 3 Flash — AI language model
 
-## 👤 Author
+## Author
 Built by oslsliams
