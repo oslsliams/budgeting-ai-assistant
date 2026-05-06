@@ -1,4 +1,4 @@
-# Budgeting AI Assistant
+# Budgeting AI Assistant "BudgetBro"
 
 An AI-powered personal finance chatbot built for college students.
 
@@ -15,7 +15,7 @@ managing student loans and credit cards.
 - Judgment-free financial coaching
 
 ## Try it live
-👉 [Launch Budgeting AI Assistant](https://creator.voiceflow.com/share/69fa7ab29a1a2da1ef735383/environment/main/draft)
+ [Launch Budgeting AI Assistant](https://creator.voiceflow.com/share/69fa7ab29a1a2da1ef735383/environment/main/draft)
 
 ## Built With
 - [Voiceflow](https://voiceflow.com) — conversational AI platform
